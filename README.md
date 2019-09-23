@@ -3,6 +3,10 @@ This free consulting project uses Aspose.Email to help replace the URL  in an em
 
 ## Screenshots
 
+![Source_Message](https://user-images.githubusercontent.com/1214951/65410115-f4ceb880-de02-11e9-9472-aeeca4828b3b.png)
+
+
+![Saved_Message](https://user-images.githubusercontent.com/1214951/65410117-f4ceb880-de02-11e9-9150-e037916161d0.png)
 
 
 ## Interested in Aspose free consulting project?
