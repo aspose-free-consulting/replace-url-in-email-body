@@ -25,4 +25,4 @@ If you're interested to ask any questions about this API then post your query in
 
 ## This free consulting project is based on the following issue:
 
-[I want to change EMail body with Aspose email](https://github.com/aspose-free-consulting/projects/issues/7)
+I want to change EMail body with Aspose email: github.com/aspose-free-consulting/projects/issues/7
